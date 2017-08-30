@@ -23,11 +23,11 @@
     </code></pre>
 
 3. Enter the repository
-    <pre><code></code></pre>
+    <pre><code>
     cd ~/MagicMirror
     </code></pre>
 
 4. Install and run the app
-    <pre><code></code></pre>
+    <pre><code>
     npm install && npm start
     </code></pre>
